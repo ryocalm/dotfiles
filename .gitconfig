@@ -1,0 +1,12 @@
+[user]
+	name = ryocalm
+	email = ryocalm@tutanota.com
+	signingkey = 9FB4FC22E5F9A31B
+[core]
+	autocrlf = false
+[commit]
+	gpgsign = true
+[gpg]
+	program = /usr/local/bin/gpg
+[ghq]
+	root = ~/src
